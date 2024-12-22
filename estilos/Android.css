@@ -87,12 +87,14 @@ main h1 {
     font: normal normal 1.7em 'Android';
     color: var(--cor04);
     max-width: 600px;
+    background-image: linear-gradient(to right , var(--cor01),transparent);
 }
 
 main h2{
     font: normal normal 1.4em 'Android';
     color: var(--cor04);
     background-image: linear-gradient(to right , var(--cor01),transparent);
+    
 }
 main strong{
     color: var(--cor05);
